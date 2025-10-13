@@ -1,4 +1,4 @@
-🧠 James Gitau – DevSecOps Engineer | Cybersecurity Automation Builder
+🧠 James Gitau – DevSecOps Engineer intern | Cybersecurity Automation Builder
 
 👋 Hello there!
 
