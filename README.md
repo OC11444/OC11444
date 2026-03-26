@@ -1,4 +1,4 @@
-<h1 align="center">🧠 James Gitau – DevSecOps Engineer | Cybersecurity Automation Builder</h1>
+<h1 align="center">🧠 James Gitau – Aspiring DevSecOps Engineer | Cybersecurity Automation Builder</h1>
 
 <p align="center">
   <em>"Engineering AI-driven security systems that think, defend, and evolve."</em>
